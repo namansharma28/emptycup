@@ -3,7 +3,7 @@ from flask_cors import CORS
 import json
 import os
 
-app = Flask(__name__, static_folder="../frontend", static_url_path="/")
+app = Flask(__name__)
 CORS(app, origins=["https://emptycup-frontend-smoky.vercel.app"])
 
 # Serve the index.html
