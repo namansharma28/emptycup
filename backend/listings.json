@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Epic Designs",
+      "rating": 4,
+      "projects": 57,
+      "years": 8,
+      "price": "$$",
+      "phone1": "+91 - 984532853",
+      "phone2": "+91 - 984532854"
+    },
+    {
+      "id": 2,
+      "title": "Studio - D3",
+      "rating": 5,
+      "projects": 43,
+      "years": 6,
+      "price": "$$$",
+      "phone1": "+91 - 984532853",
+      "phone2": "+91 - 984532854"
+    }
+  ]
+  
